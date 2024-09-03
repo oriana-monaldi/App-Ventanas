@@ -1,0 +1,51 @@
+* {
+    background-color: black;
+}
+
+h1 {
+    color:white;
+    display: flex;
+    justify-content: center;
+    padding: 90px;
+}
+
+#app {
+    display: flex;
+    flex-direction: column;
+}
+
+.boton {
+    width: 250px;
+    margin-left: 20px;
+    margin-top: 30px;
+    background-color: bisque;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;   
+    margin: 20px;
+}
+
+.input {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    margin-left: 20px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+
+}
+
+p {
+    display: flex;
+    color: white;
+    justify-content: center;   
+    text-align: center;
+    height: 20px;
+    width: 400px;
+    background-color: rgb(77, 22, 139);
+}
