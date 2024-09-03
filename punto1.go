@@ -28,7 +28,7 @@ func mayorVsMenor () {
 	if num1 > num2  {
 		fmt.Println("El primer numero ingresado siendo" , num1, "es mayor al segundo numero" , num2)
 	}else if  num2 > num1 {
-		fmt.Println("El segundo numero ingresado siendo" , num2 ,"es mayor al primero" , num1)
+		fmt.Println("El segundo numero ingresado siendo" , num2 ,"es mayor al primer numero" , num1)
 	}else {
 		fmt.Println("Los dos numeros son iguales")
 	}
@@ -45,5 +45,5 @@ func Modulo() {
 
 	Modulo := num1 % num2
 
-	fmt.Println(Modulo)
+	fmt.Println("El modulo es" , Modulo)
 } 
