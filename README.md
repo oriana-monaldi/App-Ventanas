@@ -13,7 +13,7 @@ Pasos para correr la aplicacion de consola:
 - En la raiz del proyecto confirmando que la direccion sea ../Desarrollo-Tp1  
 Ejecutar en la consola el siguiente comando: go run punto1.go
 
-//--------------------------------------------------------------------//
+//----------------------------------------------------------------------------------------------------//
 
 Punto 2- Aplicación de formularios (o ventanas).
 
