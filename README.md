@@ -21,3 +21,7 @@ Deberá contar con, por lo menos, dos botones que realicen dos tareas diferentes
 
 Utilizando Go Wails, un framework basado en Golang que permite la creacion de aplicaciones de escritorio mediante tecnologías web, realicé un proyecto a base de HTML para el maquetadp, CSS para los estulos y JavaScript para la funcionalidad.
 
+Pasos para la ejecución de la aplicacion de ventanas.
+
+- Se debe ingresar a la carpeta donde se encuentra la resolución con el comando cd punto2
+
