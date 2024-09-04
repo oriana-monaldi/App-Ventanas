@@ -3,27 +3,30 @@
 }
 
 h1 {
-    color:white;
+    color: #A39096;
     display: flex;
     justify-content: center;
+    font-size:50px;
     padding: 90px;
 }
 
 #app {
     display: flex;
     flex-direction: column;
+    align-items:center;
 }
 
 .boton {
     width: 250px;
     margin-left: 20px;
     margin-top: 30px;
-    background-color: bisque;
+    background-color: #a6808c;
+    color:white;
+    font-size:15px;
+    padding: 10px;
 }
 
 .contenedor {
-    display: flex;
-    justify-content: center;   
     margin: 20px;
 }
 
@@ -35,17 +38,16 @@ h1 {
 }
 
 h2 {
-    color: white;
-    text-align: center;
-
+color: #a6808c   ;
+    margin:30px;
+    font-size:30px;
 }
 
 p {
-    display: flex;
-    color: white;
-    justify-content: center;   
-    text-align: center;
+    color: #ccb7ae;
+    font-size:20px;
+    display:flex;
     height: 20px;
-    width: 400px;
-    background-color: rgb(77, 22, 139);
+    padding:10px;
+    margin-left:40px;
 }

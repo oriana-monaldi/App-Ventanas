@@ -8,6 +8,7 @@ const inputFactorial = document.getElementById('inputFactorial');
 const botonParidad = document.getElementById('comprobarParidad');
 const resultadoParidad = document.getElementById('resultadoParidad');
 
+//Funcion para calcular el factorial
 function calcularFactorial(num) {
     if (num < 0) return "No se puede calcular el factorial de un numero negativo";
     let factorial = 1;
@@ -27,6 +28,7 @@ botonFactorial.addEventListener("click", () => {
     }
 });
 
+// Funcion de comprobar la paridad 
 function comprobarParidad(num) {
     if (num > 0) {
         return num % 2 === 0 ? "es un número es par" : "es un número es impar";
