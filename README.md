@@ -14,7 +14,7 @@ Pasos para correr la aplicacion de consola:
 
 - Ejecutar en la consola el siguiente comando:  go run punto1.go
 
-//--------------------------------------------------------------------//
+//----------------------------------------------------------------------------------------------------//
 
 Punto 2- Aplicación de formularios (o ventanas).
 
